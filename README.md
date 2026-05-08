@@ -1,1 +1,0 @@
-# -atividade_1-segundo-bimestre
