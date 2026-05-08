@@ -10,5 +10,7 @@
 
 5 - 
 A) Foram exibidos os números 123, com a linha sendo pulada com o "\n", 300, também sendo usado o "\n", e a expressão 100 + 200.
-B) 
+B) A linha 6 é uma soma sendo feita no meia do código e depois seu resultado sendo mostrado, já a linha 7, é mostrada a expressão sem resultado, usando as aspas no código para a expressão ser retratada como texto, e a soma não ser feita como na linha 6.
+
+6 - 
 
