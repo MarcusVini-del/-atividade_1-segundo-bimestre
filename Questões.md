@@ -8,5 +8,5 @@
 
 4 - Uma variável cadeia "nome" é criada, usando o comando "leia", é perguntado o nome, e usando o comando "escreva" ela é citada no console.
 
-5 - 
+5 - A) 
 
