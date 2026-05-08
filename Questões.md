@@ -8,5 +8,7 @@
 
 4 - Uma variável cadeia "nome" é criada, usando o comando "leia", é perguntado o nome, e usando o comando "escreva" ela é citada no console.
 
-5 - A) 
+5 - 
+A) Foram exibidos os números 123, com a linha sendo pulada com o "\n", 300, também sendo usado o "\n", e a expressão 100 + 200.
+B) 
 
