@@ -12,5 +12,5 @@
 A) Foram exibidos os números 123, com a linha sendo pulada com o "\n", 300, também sendo usado o "\n", e a expressão 100 + 200.
 B) A linha 6 é uma soma sendo feita no meia do código e depois seu resultado sendo mostrado, já a linha 7, é mostrada a expressão sem resultado, usando as aspas no código para a expressão ser retratada como texto, e a soma não ser feita como na linha 6.
 
-6 - É perguntada a idade do indivíduo, e se ela for igual ou maior que 18 é mostrado "maior de idade" no console.
+6 - É perguntada a idade do indivíduo, usando a variável idade(que é definida como 21), e se ela for igual ou maior que 18 é mostrado "maior de idade" no console, se não for, aparece nada.
 
