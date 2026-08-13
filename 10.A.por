@@ -7,11 +7,13 @@ programa
 	inteiro comprimento_maraca
 	inteiro largura_maraca
 	
-	escreva("qual seria o valor do comprimento e largura do maracanã?")
+	escreva("qual seria o valor do comprimento e largura do maracanã?\n")
 	leia(largura_maraca)
 	leia(comprimento_maraca)
 
-	escreva("a área do maraca ´é
+	area_maraca = largura_maraca * comprimento_maraca
+
+	escreva("a área do maraca é de ", area_maraca, " metros quadrados") 
 	}
 }
 /* $$$ Portugol Studio $$$ 
