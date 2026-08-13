@@ -15,7 +15,7 @@ programa
 
 	dobro_area_maraca = (largura_maraca * comprimento_maraca) * 2
 
-	escreva("O dobro da área do Maracanã é ", dobro_area_maraca * 100 + " centímetros")
+	escreva("O dobro da área do Maracanã é ", dobro_area_maraca * 100, " centímetros")
 	}
 }
 /* $$$ Portugol Studio $$$ 
