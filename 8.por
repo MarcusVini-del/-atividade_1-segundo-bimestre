@@ -5,13 +5,14 @@ programa
 	{
 	cadeia mae = "Tess"
 	cadeia filha = "Anna"
-	cadeia FilhaMae
-	cadeia MaeFilha = "Tess"
+	cadeia auxMae = "Tess"
 
-	FilhaMae = mae
-	mae = filha
+	auxMae = filha
+	filha = mae
+	mae = auxFilha
+	
 
-	escreva ("A ", FilhaMae , " virou a ", mae , " e a ", mae , " virou a ", MaeFilha)
+	escreva ("A ", filha , " virou a ", mae , " e a ", auxFilha , " virou a ", filha)
 	}
 }
 /* $$$ Portugol Studio $$$ 
