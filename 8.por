@@ -5,9 +5,9 @@ programa
 	{
 	cadeia mae = "Tess"
 	cadeia filha = "Anna"
-	cadeia auxMae = "Tess"
+	cadeia auxFilha = "Tess"
 
-	auxMae = filha
+	auxFilha = filha
 	filha = mae
 	mae = auxFilha
 	
